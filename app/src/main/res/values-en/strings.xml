@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cash machine</string>
+    <string name="conta_cliente">Account number</string>
+    <string name="inicio_periodo">Beginning of period</string>
+    <string name="fim_periodo">End of period</string>
+    <string name="consultar_botao">Consult</string>
+    <string name="bota_voltar">Back</string>
+</resources>

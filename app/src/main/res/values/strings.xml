@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Caixa Eletronico</string>
+    <string name="conta_cliente">número da conta</string>
+    <string name="inicio_periodo">início do periodo</string>
+    <string name="fim_periodo">fim do periodo</string>
+    <string name="consultar_botao">Consultar</string>
+    <string name="bota_voltar">Voltar</string>
+
+</resources>
